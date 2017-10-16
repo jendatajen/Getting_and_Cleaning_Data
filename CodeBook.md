@@ -13,19 +13,24 @@ Activity – Activity type:
 
 Measurements
 
--"activitylabel"
--"subject"
--"tBodyAcc-mean()-X"
--"tBodyAcc-mean()-Y"
--"tBodyAcc-mean()-Z"
--"tBodyAcc-std()-X"
--"tBodyAcc-std()-Y"
--"tBodyAcc-std()-Z"
--"tGravityAcc-mean()-X"
--"tGravityAcc-mean()-Y"
--"tGravityAcc-mean()-Z"
--"tGravityAcc-std()-X"
--"tGravityAcc-std()-Y"
+"activitylabel"
+
+"subject"
+
+"tBodyAcc-mean()-X"
+
+"tBodyAcc-mean()-Y"
+
+"tBodyAcc-mean()-Z"
+
+"tBodyAcc-std()-X"
+"tBodyAcc-std()-Y"
+"tBodyAcc-std()-Z"
+"tGravityAcc-mean()-X"
+"tGravityAcc-mean()-Y"
+"tGravityAcc-mean()-Z"
+"tGravityAcc-std()-X"
+"tGravityAcc-std()-Y"
 "tGravityAcc-std()-Z"
 "tBodyAccJerk-mean()-X"
 "tBodyAccJerk-mean()-Y"
